@@ -2,7 +2,7 @@
   "name": "cloud-admin-views",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "zk <2498695596@qq.com>",
+  "author": "dyyao <646617513@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -12,10 +12,8 @@
   "dependencies": {
     "axios": "^0.18.0",
     "element-ui": "^2.4.7",
-    "i": "^0.3.6",
     "node-sass": "^4.9.3",
     "sass-loader": "^7.1.0",
-    "vnpm": "^1.0.58",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1",
